@@ -17,7 +17,7 @@ int main() {
   printf("Digite o código da Primeira Cidade: \n");
   scanf("%s", &codigo1);
 
-  printf("Digite o nome da Primeira Cidade: \n"):
+  printf("Digite o nome da Primeira Cidade: \n");
   scanf("%s", &cidade1);
 
   printf("Digite o numero de habitantes da Primeira Cidade: \n");
@@ -38,7 +38,7 @@ int main() {
   printf("Digite o código da Primeira Cidade: \n");
   scanf("%s", &codigo2);
 
-  printf("Digite o nome da Primeira Cidade: \n"):
+  printf("Digite o nome da Primeira Cidade: \n");
   scanf("%s", &cidade2);
 
   printf("Digite o numero de habitantes da Primeira Cidade: \n");
